@@ -1,4 +1,4 @@
-![Databricks AI Challenge Banner](banner.jpg)
+![Databricks AI Challenge Banner](banner.png)
 
 <div align="center">
 
