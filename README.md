@@ -44,8 +44,8 @@ Before diving into the daily challenges, I have set up the necessary environment
 ### 🔹 Phase 1: Foundation (Days 1-4)
 | Day | Date | Topic | Status | Links / Notes |
 | :---: | :---: | :--- | :---: | :--- |
-| **01** | 09/01/26 | **Platform Setup & First Steps** | ⬜ | [Coming Soon] |
-| **02** | 10/01/26 | **Apache Spark Fundamentals** | ⬜ | [Coming Soon] |
+| **01** | 09/01/26 | **Platform Setup & First Steps** | ⬜ | Updated in Day Branch |
+| **02** | 10/01/26 | **Apache Spark Fundamentals** | ⬜ | Updated in Day Branch |
 | **03** | 11/01/26 | **PySpark Transformations Deep Dive** | ⬜ | [Coming Soon] |
 | **04** | 12/01/26 | **Delta Lake Introduction** | ⬜ | [Coming Soon] |
 
