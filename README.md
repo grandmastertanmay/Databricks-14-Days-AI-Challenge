@@ -47,7 +47,7 @@ Before diving into the daily challenges, I have set up the necessary environment
 | **01** | 09/01/26 | **Platform Setup & First Steps** | ⬜ | Updated in Day Branch |
 | **02** | 10/01/26 | **Apache Spark Fundamentals** | ⬜ | Updated in Day Branch |
 | **03** | 11/01/26 | **PySpark Transformations Deep Dive** | ⬜ | completed(11-01-26, 23:50) |
-| **04** | 12/01/26 | **Delta Lake Introduction** | ⬜ | [Coming Soon] |
+| **04** | 12/01/26 | **Delta Lake Introduction** | ⬜ | completed(12-01-26, 20:10) |
 
 ### 🔹 Phase 2: Data Engineering (Days 5-8)
 | Day | Topic | Status | Links / Notes |
