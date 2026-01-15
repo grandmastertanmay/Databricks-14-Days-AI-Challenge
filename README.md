@@ -76,6 +76,21 @@ Before diving into the daily challenges, I have set up the necessary environment
 | :---: | :--- | :--- |
 | **15-21** | **Final Project** | A self-directed week to choose a problem, find a dataset, architect a solution, and build a portfolio-worthy project. |
 
+## 🚀 Day 7: Workflow Orchestration
+**Goal:** Automate the Medallion Architecture (Bronze -> Silver -> Gold) using Databricks Workflows.
+
+### 📂 Key Files
+* [`Day 7 - Workflows.ipynb`](./Day7.ipynb): The controller notebook containing the logic for all 3 layers.
+* [`job_config.json`](./day_07_job_config.json): The full Databricks Job definition (IaC) exported from the workspace.
+
+### 🛠️ Architecture
+I implemented a **Multi-Task Job** with dependencies:
+1.  **Ingest (Bronze):** Ingests raw CSVs.
+2.  **Clean (Silver):** Depends on Bronze; validates schema.
+3.  **Agg (Gold):** Depends on Silver; calculates business KPIs.
+
+![Job Execution Graph](assets/day_07_success.png)
+
 ## 💻 Tech Stack
 
 * **Platform:** Databricks Community Edition / Professional
